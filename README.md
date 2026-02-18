@@ -47,6 +47,8 @@ StarLog, ESP32 mimarisi ve ST7735 TFT ekran üzerine inşa edildi. v3.0 ile aray
 
 ---
 **Muhammet Ayberk ARSLAN** | *2025*
+
+*Resimler henüz sistemi 3D yazıcı ile tasarladığım ince ve taşınabilir kasaya yerleştirmeden önce çekilmiştir. Ayrıca kablo karmaşasından kurtulmak için özel PCB tasarımı yapıyorum, yakında güncellemeler olacak.*
 <br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://raw.githubusercontent.com/ayberkarslan/starlog/refs/heads/main/images/1.jpg" width="150" alt="text">
